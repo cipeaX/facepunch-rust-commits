@@ -1,2 +1,2 @@
-# facepunch-rust-commits in python
-Sends new rust-related facepunch commits straight into your discord using webhooks.
+# facepunch-rust-commits 
+Sends new rust-related facepunch commits straight into your discord using webscraping and webhooks in python.
